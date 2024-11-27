@@ -1,3 +1,7 @@
+![logo](https://github.com/DiyaSirohi44/DiyaSirohi44/blob/main/Blue%20and%20Red%20Edgy%20Gaming%20Youtube%20Banner.png)
+
+
+
 <h1 align="center">Hi 👋, I'm Diya Sirohi</h1>
 <h3 align="center">A passionate frontend develovperper from India</h3>
    <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3K8G2UqDVSJBopWzF2q9PCrd-zMMKo1cxbg&s">
