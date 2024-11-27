@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diya Sirohi</h1>
 <h3 align="center">A passionate frontend develovperper from India</h3>
-   <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url="https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fprogrammer&psig=AOvVaw1tbjQz6MADnezh5vPyTNBL&ust=1732814891958000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDR47GF_YkDFQAAAAAdAAAAABAE">
+   <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3K8G2UqDVSJBopWzF2q9PCrd-zMMKo1cxbg&s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diyasirohi4477&label=Profile%20views&color=0e75b6&style=flat" alt="diyasirohi4477" /> </p>
 
 - 📫 How to reach me **diya2211125@gmail.com**
